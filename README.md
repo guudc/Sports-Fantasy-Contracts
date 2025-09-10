@@ -16,7 +16,6 @@ npx hardhat run scripts/deploy.js
 
 This project provides a simple **Escrow contract** that manages the transfer of **ERC1155 NFTs** and **ERC20 tokens**. It ensures assets are safely held in escrow until explicitly released to a user.
 
----
 
 ## Features
 
